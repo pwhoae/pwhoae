@@ -28,7 +28,7 @@ learning: AI / Backend / Systems
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,express,mongodb,mysql,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,mysql,git,linux,vscode" />
 </p>
 
 ---
