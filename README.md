@@ -54,13 +54,14 @@ learning: Edge AI, Backend Architecture, System Design
 ## 🧩 Featured Projects
 https://gemini.google.com/share/9fddc6e0004f
 
-<a href="[https://github.com/pwhoae](https://github.com/LHanss/2024FYP---UST-Simulator)">🎮 UST Simulator (Card Game)</a> 
+<H1><a href="https://github.com/LHanss/2024FYP---UST-Simulator">🎮 UST Simulator (Card Game)</a></H1> <br>
 Built with Godot + Arduino + GitHub
 Designed custom hardware interaction controllers
 Implemented scalable skill tree & modular gameplay system
 Improved development efficiency using AI-assisted debugging
+<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator.JPG" />
 
-<a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a> 
+<H1><a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a></H1><br>
 Built with Python Flask
 Implemented:
 Forward & inverted index
@@ -69,16 +70,9 @@ Added:
 Wildcard search
 Spelling correction
 Optimized for performance and clean deployment
+<img src="https://github.com/pwhoae/pwhoae/blob/main/Search%20Engine%20Website.JPG" />
 
-🤖 Real-Time Posture Recognition System
-Developed on Raspberry Pi (Edge AI) with MediaPipe, MLP, LSTM
-Engineered 66D skeletal feature vectors from 33 body landmarks
-Achieved:
-94.79% frame-level accuracy
-84.21% sequence-level accuracy
-Implemented real-time monitoring and alert system
-
-📱 USTLink (Campus Forum App)
+📱 USTLink (Campus Forum App)<br>
 Built with Flutter + Firebase
 Features:
 User authentication
@@ -86,6 +80,18 @@ Discussion forum
 Campus information system
 Designed clean UI & smooth navigation
 Modular architecture for scalability and maintainability
+<img src="https://github.com/pwhoae/pwhoae/blob/main/USTLink.JPG" />
+
+
+🤖 Real-Time Posture Recognition System<br>
+Developed on Raspberry Pi (Edge AI) with MediaPipe, MLP, LSTM
+Engineered 66D skeletal feature vectors from 33 body landmarks
+Achieved:
+94.79% frame-level accuracy
+84.21% sequence-level accuracy
+Implemented real-time monitoring and alert system
+
+
 
 ---
 
