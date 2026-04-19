@@ -1,6 +1,6 @@
 <!-- Banner / 打字動畫 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;Full+Stack+Developer;HKUST+CPEG;Building+cool+stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;HKUST+CPEG+Student;Building+cool+stuff+🚀" />
 </p>
 
 ---
