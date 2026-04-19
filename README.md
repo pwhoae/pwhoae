@@ -18,6 +18,7 @@
 ```yaml
 name: pwhoae
 role: Full Stack Developer / AI Engineer
+university: The Hong Kong University of Science and Technology
 location: Internet 🌍
 focus: Scalable systems, AI applications, and real-world products
 learning: Edge AI, Backend Architecture, System Design
@@ -29,7 +30,7 @@ learning: Edge AI, Backend Architecture, System Design
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,mysql,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,linux,vscode" />
 </p>
 
 ---
@@ -52,44 +53,44 @@ learning: Edge AI, Backend Architecture, System Design
 ---
 
 ## 🧩 Featured Projects
-https://gemini.google.com/share/9fddc6e0004f
-
 <H1><a href="https://github.com/LHanss/2024FYP---UST-Simulator">🎮 UST Simulator (Card Game)</a></H1> <br>
-Built with Godot + Arduino + GitHub
-Designed custom hardware interaction controllers
-Implemented scalable skill tree & modular gameplay system
-Improved development efficiency using AI-assisted debugging
-<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator.JPG" />
+Built with Godot + Arduino + GitHub<br>
+Designed custom hardware interaction controllers<br>
+Implemented scalable skill tree & modular gameplay system<br>
+Improved development efficiency using AI-assisted debugging<br>
 
+<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator.JPG" />
 <H1><a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a></H1><br>
-Built with Python Flask
-Implemented:
-Forward & inverted index
-Cosine similarity ranking
-Added:
-Wildcard search
-Spelling correction
-Optimized for performance and clean deployment
+Built with Python Flask<br>
+Implemented:<br>
+Forward & inverted index<br>
+Cosine similarity ranking<br>
+Added:<br>
+Wildcard search<br>
+Spelling correction<br>
+Optimized for performance and clean deployment<br>
+
 <img src="https://github.com/pwhoae/pwhoae/blob/main/Search%20Engine%20Website.JPG" />
 
 📱 USTLink (Campus Forum App)<br>
-Built with Flutter + Firebase
-Features:
-User authentication
-Discussion forum
-Campus information system
-Designed clean UI & smooth navigation
-Modular architecture for scalability and maintainability
+Built with Flutter + Firebase<br>
+Features:<br>
+User authentication<br>
+Discussion forum<br>
+Campus information system<br>
+Designed clean UI & smooth navigation<br>
+Modular architecture for scalability and maintainability<br>
+
 <img src="https://github.com/pwhoae/pwhoae/blob/main/USTLink.JPG" />
 
 
 🤖 Real-Time Posture Recognition System<br>
-Developed on Raspberry Pi (Edge AI) with MediaPipe, MLP, LSTM
-Engineered 66D skeletal feature vectors from 33 body landmarks
-Achieved:
-94.79% frame-level accuracy
-84.21% sequence-level accuracy
-Implemented real-time monitoring and alert system
+Developed on Raspberry Pi (Edge AI) with MediaPipe, MLP, LSTM<br>
+Engineered 66D skeletal feature vectors from 33 body landmarks<br>
+Achieved:<br>
+**94.79%** frame-level accuracy<br>
+**84.21% **sequence-level accuracy<br>
+Implemented real-time monitoring and alert system<br>
 
 
 
@@ -101,7 +102,7 @@ Implemented real-time monitoring and alert system
   <a href="https://github.com/pwhoae"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/po-wa-ho-b10928352/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-
+<center><a href="https://gemini.google.com/share/9fddc6e0004f">Gemini version</a></center>
 
 
 <p align="center">
