@@ -1,6 +1,6 @@
 <!-- Banner / 打字動畫 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;Full+Stack+Developer;HKUST+CPEG;Building+cool+stuff+🚀" />
 </p>
 
 ---
@@ -17,10 +17,11 @@
 ## 🧠 About Me
 ```yaml
 name: pwhoae
-role: Full Stack Developer
+role: Full Stack Developer / AI Engineer
 location: Internet 🌍
-focus: Building scalable & cool projects
-learning: AI / Backend / Systems
+focus: Scalable systems, AI applications, and real-world products
+learning: Edge AI, Backend Architecture, System Design
+
 ```
 
 ---
@@ -51,13 +52,40 @@ learning: AI / Backend / Systems
 ---
 
 ## 🧩 Featured Projects
-
-🚀 **Awesome Project**  
-> Built a card game simulator using Godot, Arduino, and GitHub; designed custom interaction
-controllers with high user satisfaction.
-
-🔗 https://github.com/LHanss/2024FYP---UST-Simulator
 https://gemini.google.com/share/9fddc6e0004f
+
+<a href="[https://github.com/pwhoae](https://github.com/LHanss/2024FYP---UST-Simulator)">🎮 UST Simulator (Card Game)</a> 
+Built with Godot + Arduino + GitHub
+Designed custom hardware interaction controllers
+Implemented scalable skill tree & modular gameplay system
+Improved development efficiency using AI-assisted debugging
+
+<a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a> 
+Built with Python Flask
+Implemented:
+Forward & inverted index
+Cosine similarity ranking
+Added:
+Wildcard search
+Spelling correction
+Optimized for performance and clean deployment
+
+🤖 Real-Time Posture Recognition System
+Developed on Raspberry Pi (Edge AI) with MediaPipe, MLP, LSTM
+Engineered 66D skeletal feature vectors from 33 body landmarks
+Achieved:
+94.79% frame-level accuracy
+84.21% sequence-level accuracy
+Implemented real-time monitoring and alert system
+
+📱 USTLink (Campus Forum App)
+Built with Flutter + Firebase
+Features:
+User authentication
+Discussion forum
+Campus information system
+Designed clean UI & smooth navigation
+Modular architecture for scalability and maintainability
 
 ---
 
