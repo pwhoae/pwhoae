@@ -53,43 +53,41 @@ learning: Edge AI, Backend Architecture, System Design
 ---
 
 ## 🧩 Featured Projects
-<H1><a href="https://github.com/LHanss/2024FYP---UST-Simulator">🎮 UST Simulator (Card Game)</a></H1> <br>
+<H1><a href="https://github.com/LHanss/2024FYP---UST-Simulator">🎮 UST Simulator (Card Game)</a></H1> 
 Built with Godot + Arduino + GitHub<br>
-Designed custom hardware interaction controllers<br>
-Implemented scalable skill tree & modular gameplay system<br>
-Improved development efficiency using AI-assisted debugging<br>
+>Designed custom hardware interaction controllers<br>
+>Implemented scalable skill tree & modular gameplay system<br>
+>Improved development efficiency using AI-assisted debugging<br>
+<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator.JPG" /> 
 
-<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator.JPG" />
-<H1><a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a></H1><br>
+<H1><a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a></H1>
 Built with Python Flask<br>
 Implemented:<br>
-Forward & inverted index<br>
-Cosine similarity ranking<br>
+>Forward & inverted index<br>
+>Cosine similarity ranking<br>
 Added:<br>
-Wildcard search<br>
-Spelling correction<br>
-Optimized for performance and clean deployment<br>
-
+>Wildcard search<br>
+>Spelling correction<br>
+>Optimized for performance and clean deployment<br>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/Search%20Engine%20Website.JPG" />
 
-📱 USTLink (Campus Forum App)<br>
+<H1>📱 USTLink (Campus Forum App)<br></H1>
 Built with Flutter + Firebase<br>
 Features:<br>
-User authentication<br>
-Discussion forum<br>
-Campus information system<br>
-Designed clean UI & smooth navigation<br>
-Modular architecture for scalability and maintainability<br>
-
+>User authentication<br>
+>Discussion forum<br>
+>Campus information system<br>
+>Designed clean UI & smooth navigation<br>
+>Modular architecture for scalability and maintainability<br>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/USTLink.JPG" />
 
 
-🤖 Real-Time Posture Recognition System<br>
+<H1>🤖 Real-Time Posture Recognition System<br></H1>
 Developed on Raspberry Pi (Edge AI) with MediaPipe, MLP, LSTM<br>
 Engineered 66D skeletal feature vectors from 33 body landmarks<br>
 Achieved:<br>
-**94.79%** frame-level accuracy<br>
-**84.21% **sequence-level accuracy<br>
+>**94.79%** frame-level accuracy<br>
+>**84.21% **sequence-level accuracy<br>
 Implemented real-time monitoring and alert system<br>
 
 
@@ -102,9 +100,9 @@ Implemented real-time monitoring and alert system<br>
   <a href="https://github.com/pwhoae"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/po-wa-ho-b10928352/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-<center><a href="https://gemini.google.com/share/9fddc6e0004f">Gemini version</a></center>
 
 
 <p align="center">
   ⚡ "Code. Build. Break. Repeat."
+  <a href="https://gemini.google.com/share/9fddc6e0004f">Gemini version (Waste)</a>
 </p>
