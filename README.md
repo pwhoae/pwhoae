@@ -53,9 +53,11 @@ learning: AI / Backend / Systems
 ## 🧩 Featured Projects
 
 🚀 **Awesome Project**  
-> 一個很酷的專案描述（改成你的）
+> Built a card game simulator using Godot, Arduino, and GitHub; designed custom interaction
+controllers with high user satisfaction.
 
-🔗 https://github.com/pwhoae/your-project
+🔗 https://github.com/LHanss/2024FYP---UST-Simulator
+https://gemini.google.com/share/9fddc6e0004f
 
 ---
 
@@ -63,18 +65,10 @@ learning: AI / Backend / Systems
 
 <p align="center">
   <a href="https://github.com/pwhoae"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/po-wa-ho-b10928352/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pwhoae/pwhoae/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <p align="center">
   ⚡ "Code. Build. Break. Repeat."
