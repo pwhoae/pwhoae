@@ -1,4 +1,3 @@
-````md
 <!-- Banner / 打字動畫 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;Full+Stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+🚀" />
@@ -22,16 +21,14 @@ role: Full Stack Developer
 location: Internet 🌍
 focus: Building scalable & cool projects
 learning: AI / Backend / Systems
-````
+```
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,express,mongodb,mysql,docker,git,linux,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,express,mongodb,mysql,docker,git,linux,vscode" />
 </p>
 
 ---
@@ -55,8 +52,7 @@ learning: AI / Backend / Systems
 
 ## 🧩 Featured Projects
 
-🚀 **Awesome Project**
-
+🚀 **Awesome Project**  
 > 一個很酷的專案描述（改成你的）
 
 🔗 https://github.com/pwhoae/your-project
@@ -72,7 +68,7 @@ learning: AI / Backend / Systems
 
 ---
 
-## 🐍 Contribution Snake (超酷)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pwhoae/pwhoae/output/github-contribution-grid-snake.svg" />
@@ -83,4 +79,3 @@ learning: AI / Backend / Systems
 <p align="center">
   ⚡ "Code. Build. Break. Repeat."
 </p>
-```
