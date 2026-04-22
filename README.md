@@ -6,6 +6,8 @@
 ---
 
 # 🚀 pwhoae
+ <img src="https://github.com/pwhoae/pwhoae/blob/main/ChatGPT%20Image.png"/>
+AI may produce inaccurate information.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pwhoae&label=Profile%20views&color=0e75b6&style=flat" />
