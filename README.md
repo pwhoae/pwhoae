@@ -91,6 +91,7 @@ Achieved:<br>
 >**94.79%** frame-level accuracy<br>
 >**84.21% **sequence-level accuracy<br>
 Implemented real-time monitoring and alert system<br>
+<img src="https://github.com/pwhoae/pwhoae/blob/main/Real-Time%20Posture%20Recognition%20System.png" />
 
 
 
