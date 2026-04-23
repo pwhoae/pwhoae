@@ -108,15 +108,6 @@ Implemented real-time monitoring and alert system<br>
 <p align="center">
   ⚡ "Code. Build. Break. Repeat."
   <a href="https://gemini.google.com/share/9fddc6e0004f">Gemini version (Waste)</a><br>
-  <div align="center" id="meow-fact"></div>
 </p>
 
-
-<script>
-fetch('https://meowfacts.herokuapp.com')
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById('meow-fact').innerText = "🐈" + data.data[0];
-  });
-</script>
 
