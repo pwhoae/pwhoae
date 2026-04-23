@@ -108,4 +108,5 @@ Implemented real-time monitoring and alert system<br>
 <p align="center">
   ⚡ "Code. Build. Break. Repeat."
   <a href="https://gemini.google.com/share/9fddc6e0004f">Gemini version (Waste)</a>
+  <img src="https://meowfacts.herokuapp.com/?count=1" width="600"/>
 </p>
