@@ -6,7 +6,7 @@
 ---
 
 # 🚀 pwhoae
- <img src="https://github.com/pwhoae/pwhoae/blob/main/ChatGPT%20Image.png" placeholder="AI may produce inaccurate information."/>
+ <img src="https://github.com/pwhoae/pwhoae/blob/main/ChatGPT%20Image.png" title="AI may produce inaccurate information."/>
 AI may produce inaccurate information.
 
 <p align="center">
