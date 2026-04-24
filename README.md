@@ -60,8 +60,8 @@ Built with Godot + Arduino + GitHub<br>
 >Designed custom hardware interaction controllers<br>
 >Implemented scalable skill tree & modular gameplay system<br>
 >Improved development efficiency using AI-assisted debugging<br>
-<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator.JPG" /> 
-
+<img src="https://github.com/pwhoae/pwhoae/blob/main/UST%20Simulator_GPT.png" title="AI may produce inaccurate information."/>
+AI may produce inaccurate information.
 <H1><a href="https://github.com/Skyturtl/Web-Scraper">🔍 Search Engine Website</a></H1>
 Built with Python Flask<br>
 Implemented:<br>
