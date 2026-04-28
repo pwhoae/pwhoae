@@ -83,6 +83,7 @@ Features:<br>
 >Designed clean UI & smooth navigation<br>
 >Modular architecture for scalability and maintainability<br>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/USTLink_GPT.jpg" title="AI may produce inaccurate information." />
+<img src="https://github.com/pwhoae/pwhoae/blob/main/USTLink_GPT2.png" title="AI may produce inaccurate information." />
 <B><I><U>AI may produce inaccurate information.</U></I></B>
 
 <H1>🤖 Real-Time Posture Recognition System<br></H1>
