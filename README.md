@@ -98,7 +98,11 @@ Implemented real-time monitoring and alert system<br>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/images/Real-Time%20Posture%20Recognition%20System.png" title="AI may produce inaccurate information."/>
 <B><I><U>AI may produce inaccurate information.</U></I></B>
 
-
+<H6><a href="https://github.com/pwhoae/kiro_test/tree/main/Gemini/n-bit-audio-converter">n-bit-audio-converter
+</a></H6> 
+<img src="images/n-bit-audio-converter.png" title="AI may produce inaccurate information."/>
+<B><I><U>AI may produce inaccurate information.</U></I></B>
+<br>
 
 
 ---
