@@ -1,6 +1,9 @@
 <!-- Banner / 打字動畫 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;HKUST+CPEG+Student;Building+cool+stuff+🚀" />
+   <img src="https://github.com/pwhoae/pwhoae/blob/main/images/hi_github.gif" />
+
+  
 </p>
 
 ---
