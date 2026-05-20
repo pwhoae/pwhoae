@@ -24,7 +24,7 @@
 ```yaml
 name: pwhoae
 role: Full Stack Developer / AI Engineer
-university: The Hong Kong University of Science and Technology
+university: The Hong Kong University of Science and Technology (2025 Grad)
 location: Internet 🌍
 focus: Scalable systems, AI applications, and real-world products
 learning: Edge AI, Backend Architecture, System Design
