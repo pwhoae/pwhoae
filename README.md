@@ -28,9 +28,10 @@ university: The Hong Kong University of Science and Technology
 location: Internet 🌍
 focus: Scalable systems, AI applications, and real-world products
 learning: Edge AI, Backend Architecture, System Design
- <img src="https://http.cat/images/496.jpg"/>
-
+ 
 ```
+<img src="https://http.cat/images/496.jpg" />
+
 
 ---
 
