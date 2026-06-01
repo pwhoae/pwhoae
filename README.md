@@ -12,6 +12,7 @@
 # 🚀 pwhoae
  <img src="https://github.com/pwhoae/pwhoae/blob/main/images/Self_GPT.jpg" title="AI may produce inaccurate information."/>
 <B><I><U>AI may produce inaccurate information.</U></I></B>
+    <img src="https://github.com/pwhoae/pwhoae/blob/main/images/%E5%A4%9A%E5%85%83%E6%99%BA%E8%83%BD%E6%B5%8B%E8%AF%95.PNG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pwhoae&label=Profile%20views&color=0e75b6&style=flat" />
