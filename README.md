@@ -15,7 +15,7 @@
  <img src="https://github.com/pwhoae/pwhoae/blob/main/images/Self_GPT.jpg" title="AI may produce inaccurate information."/>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/images/%E5%A4%9A%E5%85%83%E6%99%BA%E8%83%BD%E6%B5%8B%E8%AF%95.PNG" />
 <img src="https://github.com/pwhoae/pwhoae/blob/main/images/ChatGPT%20Image%202026%E5%B9%B46%E6%9C%882%E6%97%A5%20%E4%B8%8B%E5%8D%8804_12_49.png" />
-https://ikigaitool.com/result/Vj9gQALBtx
+<img src="https://github.com/pwhoae/pwhoae/blob/main/images/ikigai.PNG" />
 
 </p>
 
