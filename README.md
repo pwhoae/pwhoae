@@ -47,6 +47,7 @@ learning: Edge AI, Backend Architecture, System Design
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,linux,vscode" />
+  <img src="https://github.com/pwhoae/pwhoae/blob/main/images/tool.gif" />
 </p>
 
 ---
