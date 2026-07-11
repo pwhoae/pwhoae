@@ -42,7 +42,12 @@ learning: Edge AI, Backend Architecture, System Design
 
 
 ---
+## ⚡ Skill Sets
+<p align="center">
+  python/java/c++/html/SQL/flutter/ms<br>
+</p>
 
+---
 ## ⚡ Tech Stack
 
 <p align="center">
