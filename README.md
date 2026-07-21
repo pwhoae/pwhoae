@@ -35,7 +35,7 @@ role: Full Stack Developer / AI Engineer
 university: The Hong Kong University of Science and Technology (2025 Grad)
 location: Internet 🌍
 focus: Scalable systems, AI applications, and real-world products
-learning: Edge AI, Backend Architecture, System Design
+learning: Edge AI, Backend Architecture, System Design,Technical Art 
  
 ```
 <img src="https://http.cat/images/496.jpg" />
