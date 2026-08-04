@@ -12,6 +12,19 @@
 # 🚀 pwhoae
 <p align="center">
 
+創造型工程
+| 工作類型 | 你對它的投入 | 推測喜歡程度 |
+| ----- | ----- | ----- |
+| 🎮 Game Development / Prototype | 非常高 | ⭐⭐⭐⭐⭐ |
+| 🤖 AI \+ Creative / Interactive | 非常高 | ⭐⭐⭐⭐⭐ |
+| 🎨 Character / Animation / Visual | 高 | ⭐⭐⭐⭐½ |
+| 🛠 Technical Art / Tools | 高 | ⭐⭐⭐⭐½ |
+| 💻 Programming / Software Development | 中高 | ⭐⭐⭐½ |
+| 🧠 AI / ML Engineering | 中高 | ⭐⭐⭐½ |
+| 📊 Data Analyst | 相對低 | ⭐⭐ |
+| 📝 純文書 / 重複性工作 | 很低 | ⭐ |
+| 🔧 長時間純 Debug / 維護舊系統 | 偏低 | ⭐⭐ |
+
  <img src="https://github.com/pwhoae/pwhoae/blob/main/images/Self_GPT.jpg" title="AI may produce inaccurate information."/>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/images/%E5%A4%9A%E5%85%83%E6%99%BA%E8%83%BD%E6%B5%8B%E8%AF%95.PNG" />
 <img src="https://github.com/pwhoae/pwhoae/blob/main/images/ChatGPT%20Image%202026%E5%B9%B46%E6%9C%882%E6%97%A5%20%E4%B8%8B%E5%8D%8804_12_49.png" />
