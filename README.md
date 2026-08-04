@@ -24,6 +24,7 @@
 | 📊 Data Analyst | 相對低 | ⭐⭐ |
 | 📝 純文書 / 重複性工作 | 很低 | ⭐ |
 | 🔧 長時間純 Debug / 維護舊系統 | 偏低 | ⭐⭐ |
+ <img src="https://github.com/pwhoae/pwhoae/blob/main/images/%E8%A8%88%E7%AE%97%E6%A9%9F%E5%B7%A5%E7%A8%8B%E6%8A%80%E8%83%BD%E6%A8%B9%E8%B3%87%E8%A8%8A%E5%9C%96%E8%A1%A8.png" title="AI may produce inaccurate information."/>
 
  <img src="https://github.com/pwhoae/pwhoae/blob/main/images/Self_GPT.jpg" title="AI may produce inaccurate information."/>
 <img src="https://github.com/pwhoae/pwhoae/blob/main/images/%E5%A4%9A%E5%85%83%E6%99%BA%E8%83%BD%E6%B5%8B%E8%AF%95.PNG" />
