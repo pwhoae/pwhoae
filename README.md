@@ -12,7 +12,7 @@
 # 🚀 pwhoae
 <p align="center">
 
-創造型工程
+創造型工程:Game × AI × Technical Art
 | 工作類型 | 你對它的投入 | 推測喜歡程度 |
 | ----- | ----- | ----- |
 | 🎮 Game Development / Prototype | 非常高 | ⭐⭐⭐⭐⭐ |
