@@ -1,0 +1,13 @@
+**TALENT FOUNDRY BOOTCAMP (OCT 2025 – SEP 2026) — FOR 100-HOUR REQUIREMENT**
+
+| Components | Providers | Details | Hours |
+| :--- | :--- | :--- | :--- |
+| **Hard Skills** | **NVIDIA** | • Fundamental of Deep Learning - Gen AI and LLMs: Data Science Focus <br> • Building Transformer-Based Natural Language Processing Application - Gen AI and LLMs: Application Specific <br> • Building LLM Application With Prompt Engineering - Gen AI and LLMs: From LLMs to Industrial Application | • 8 hours <br> • 8 hours <br> • 8 hours |
+| | **AWS** | • Innovate with AI and Security - Building Secure and Scalable AI Systems <br> • Data and AI League - From Concepts to Certification <br> • Cloud Practitioner Certification Training - From Infrastructure to Intelligent Scaling (i.e. Solution Architect) | • 4 hours <br> • 8 hours <br> • 8 hours |
+| | **Huawei** | • The Full Stack AI Engine - From LLM Principles to Hardware Deployment | • 8 hours |
+| | **Arrow Hardware Lab** | • Bringing Chips to Life - Microelectronics Component Characteristics and Application <br> • Edge AI - Wired to be Inspired (Elective) - Building Smart Hardware Systems | • 4 hours <br> • 16 hours |
+| | **SenseTime** | • Industry-Driven AI Solutions - Transforming Industry Sectors with Intelligent Solutions | • 8 hours |
+| **Soft Skills** | **Deloitte** | • Cybersecurity - The Challenges and How to be Resilient <br> • eDiscovery and Data Analytics - From Insights to Impact | • 8 hours <br> • 3-4 hours |
+| | **Industry Leaders** | • Collaboration in Startup Ecosystem - Master teamwork and adaptability in fast-paced entrepreneurial environments <br> • Pitching Your Vision - Transform creative ideas into compelling and investable proposals <br> • Crafting Your Professional Brand - Build a reputation that creates opportunities <br> • Design Thinking for Innovation - Solve complex problems with human-centered approaches <br> • Say More with Less - Communicating with Clarity & Impact <br> • Navigating Your Future Career - Prepare for the evolving I&T job market (by Talent Team) | • 8 hours <br> • 8 hours <br> • 8 hours <br> • 8 hours <br> • 8 hours <br> • 8 hours |
+| **Networking** | **HKSTP** <br> **HKSTP** <br> **Industry Leaders** <br> **Founders** <br> **Companies** | • HKSTP Startup Ecosystem Showcase <br> • GBA Day Trip <br> • Networking with Founders – How their services and products make an impact to society (E.g., 2 hours x 7 sessions) <br> • Founder Sharing - Learn How They Started <br> • AI Session - Tech After Four <br> • Company Visits | • 10 hours <br> • 14 hours <br> • 10 hours <br> • TBC <br> • TBC |
+| **Mentorship** | **Industry Leaders** | **Career Path Advice** <br> • Group (1:6) mentoring, or <br> • One-to-one mentoring | • 3 hours |
