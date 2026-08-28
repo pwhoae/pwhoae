@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+pwhoae+👋;HKUST+CPEG+Student;Building+cool+stuff+🚀" />
     <img src="https://github.com/pwhoae/Artbank/blob/main/GPT%E7%94%9F%E6%88%90/loading_gifs/loading1.gif" />
-   <img src="https://github.com/pwhoae/pwhoae/blob/main/images/hi_github.gif" />
+    <img src="https://github.com/pwhoae/pwhoae/blob/main/images/github-contribution_hello2.gif" />
+
+  <img src="https://github.com/pwhoae/pwhoae/blob/main/images/hi_github.gif" />
 
   
 </p>
