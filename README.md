@@ -153,8 +153,7 @@ Implemented real-time monitoring and alert system<br>
 
 <img src="https://github.com/pwhoae/Artbank/blob/main/godot/3DGodot_game_demo.gif" />
 **202609_animation**
-<img src="https://github.com/pwhoae/Artbank/blob/main/GPT%E7%94%9F%E6%88%90/loading_gifs/202609_animation.gif
-" />
+<img src="https://github.com/pwhoae/Artbank/blob/main/GPT%E7%94%9F%E6%88%90/loading_gifs/202609_animation.gif" />
 
 ---
 
