@@ -159,6 +159,9 @@ Implemented real-time monitoring and alert system<br>
 **202609_animation**
 <img src="https://github.com/pwhoae/Artbank/blob/main/GPT%E7%94%9F%E6%88%90/loading_gifs/202609_animation.gif" />
 
+project continue...
+https://github.com/pwhoae/pwhoae/blob/main/project_elab.md
+
 ---
 
 ## 🌐 Connect
