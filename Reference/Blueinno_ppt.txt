@@ -1,0 +1,3 @@
+ppt battery:https://docs.google.com/presentation/d/e/2PACX-1vQlDz7JzQmWSL3D_a5xnqILWLA_3aRH9T8-w07HLHVmPr_25QJTAMd-_-98gXDz2SZWWGIZVuHPunLP/pub?start=false&loop=false&delayms=15000&slide=id.g26fb9b53b7e_0_1928
+ppt arduino:https://docs.google.com/presentation/d/e/2PACX-1vQzyZDgGurT3DLGE48O_uZxcQq7tNa-uRW3anUWtOBsVh1NSSs2-YYRkbyMnpfw5Wh4Z4_LuENV9LBe/pub?start=false&loop=false&delayms=3000&slide=id.p84
+ppt javascript:https://docs.google.com/presentation/d/e/2PACX-1vSlM1YgBl4HDLRybCaOgCrfa_ftEtXNysR0NcxWar6nf0wuq7dHGaCUg8p4_R6EAVD8iRN8CcjFh0IB/pub?start=false&loop=false&delayms=3000&slide=id.g26fb95a0455_0_895
