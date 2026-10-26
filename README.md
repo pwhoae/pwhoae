@@ -162,6 +162,7 @@ Implemented real-time monitoring and alert system<br>
 project continue...
 https://github.com/pwhoae/pwhoae/blob/main/project_elab.md
 
+interview without next:octopus + ap2 (pass written test)
 ---
 
 ## 🌐 Connect
