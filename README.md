@@ -178,4 +178,12 @@ interview without next:octopus + ap2 (pass written test)
   <a href="https://gemini.google.com/share/9fddc6e0004f">Gemini version (Waste)</a><br>
 </p>
 
-
+AI
+├── AI Engineer
+├── AI Application
+├── GenAI Engineer
+├── Software Engineer
+├── Application Developer
+├── Full Stack Developer
+├── Software Developer
+└── AI Developer
